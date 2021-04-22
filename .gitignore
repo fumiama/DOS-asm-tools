@@ -1,2 +1,6 @@
 .DS_Store
 *.asm
+*.lst
+*.obj
+.gitignore
+*.exe
